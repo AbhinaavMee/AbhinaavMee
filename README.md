@@ -1,62 +1,106 @@
-Hi there 👋 I'm Abhinav!
-The Architect of Automation & Infrastructure
-I'm a passionate and results-driven DevOps professional dedicated to building, automating, and optimizing robust infrastructure. My goal is to bridge the gap between development and operations, ensuring seamless and scalable deployments. I thrive on solving complex problems and finding efficient ways to deliver value.
+# 👋 Hi there!
 
-💻 My DevOps Toolkit
-Here's a list of the technologies I love to work with.
+🚀 **DevOps Enthusiast** | Cloud Native | Automation | CI/CD | IaC
 
-<p align="left">
+---
 
-Languages:
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
-<br/>
+## 💼 About Me
 
-Cloud & Infrastructure:
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-<br/>
+- 💡 Passionate about bridging the gap between development and operations.
+- 🛠️ Experienced with Cloud, Automation, and Containerization.
+- ⚙️ Skilled in Infrastructure as Code, CI/CD, and Monitoring.
+- 👨‍💻 Enjoy building robust pipelines and scalable systems.
+- 📈 Advocate for continuous improvement and observability.
 
-Containerization & Orchestration:
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /></a>
-<br/>
+---
 
-CI/CD & Version Control:
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitLab_CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-<br/>
+## 🐳 Containerization
 
-Monitoring & Logging:
-<br/>
-<a href="#"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-ELK_Stack-000000?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/></td>
+  </tr>
+</table>
 
-</p>
+---
 
-🚀 Showcasing My Work
-Project Title: A Notes App that let's you write notes of all type and can be saved on database using sql. This system is completely automated by Jenkins CI/CD so it can make changes in real time without doing the manual work/changes. 
+## 🤖 Automation & IaC
 
-📈 My GitHub Activity
-<img src="https://github-profile-trophy.vercel.app/?username=abhinav&theme=onedark&no-frame=true&no-bg=true" />
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/></td>
+  </tr>
+</table>
 
-📫 Let's Connect!
-Feel free to reach out—I'm always open to discussing new opportunities, collaborating on projects, or sharing insights.
+---
 
-<p align="center">
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-266150?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+## ☁️ Cloud Platforms
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/></td>
+  </tr>
+</table>
+
+---
+
+## 🔄 CI/CD
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI" width="40"/></td>
+  </tr>
+</table>
+
+---
+
+## 📈 Monitoring & Observability
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/></td>
+  </tr>
+</table>
+
+---
+
+## 📝 Languages & Version Control
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/></td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 Cloud Infra Automation  
+  Automate cloud resources using Infrastructure as Code and configuration management.
+
+- ☸️ Kubernetes Workshop  
+  Hands-on tutorials for container orchestration and management.
+
+---
+
+## 📫 How to Reach Me
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24"/> [LinkedIn](https://linkedin.com/in/your-link)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="24"/> [Twitter](https://twitter.com/your-handle)
+- ✉️ Email: 2023btechaidsabhinav15661@poornima.edu.in
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavMee9549&show_icons=true&theme=radical)
